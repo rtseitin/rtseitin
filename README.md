@@ -1,4 +1,4 @@
-<h2> Hi, I'm ThinkPuppy, aka Robert! <img src="https://github.com/thinkpuppy/thinkpuppy/blob/main/pickachu_charging.gif" width="35"></h2>
+<h1> Hi, I'm ThinkPuppy, aka Robert! <img src="https://github.com/thinkpuppy/thinkpuppy/blob/main/pickachu_charging.gif" width="35"></h1>
 <p><em>I am studying Computer Science in High School</br>Persuing a career as a Software Engineer</em></p>
 
 [![GitHub ThinkPuppy](https://img.shields.io/github/followers/thinkpuppy?label=follow&style=social)](https://github.com/ThinkPuppy)
