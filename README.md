@@ -12,7 +12,7 @@ const robert = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python", "Go"],
   tools: ["React", "Redux", "Express", "Node", "Docker"],
   architecture: ["microservices", "design system pattern"],
-  challenge: "Challenging myself to learn GoLang in 100 day!"
+  challenge: "Challenging myself to learn Golang in 100 day!"
 }
 ```
 
