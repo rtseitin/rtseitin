@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm ThinkPuppy, aka Robert! <img src="https://i.gifer.com/4bXB.gif" width="35"></h2>
+<p><em>Studying Computer Science in High School</em></p>
 
-<!--
-**thinkpuppy/thinkpuppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub ThinkPuppy](https://img.shields.io/github/followers/thinkpuppy?label=follow&style=social)](https://github.com/ThinkPuppy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const robert = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python", "Go"],
+  tools: ["React", "Redux", "Express", "Node", "Docker"],
+  architecture: ["microservices", "design system pattern"],
+  challenge: "Challenging myself to learn GoLang in 100 day!"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
