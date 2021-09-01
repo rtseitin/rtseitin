@@ -9,10 +9,10 @@
 ```javascript
 const robert = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python", "Go"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "Go"],
   tools: ["React", "Redux", "Express", "Node", "Docker"],
   architecture: ["microservices", "design system pattern"],
-  challenge: "Challenging myself to learn Golang in 100 day!"
+  challenge: "Challenging myself to learn next.js in 100 day!"
 }
 ```
 
