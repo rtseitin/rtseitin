@@ -1,4 +1,4 @@
-<h1> Hi, I'm Robert Tseitin! <img src="https://github.com/thinkpuppy/thinkpuppy/blob/main/pickachu_charging.gif" width="35"></h1>
+<h1> Hi, I'm Robert! <img src="https://github.com/thinkpuppy/thinkpuppy/blob/main/pickachu_charging.gif" width="35"></h1>
 <p><em>I am currently a student at Carleton University studying computer science</br> I am persuing a career as a software engineer</em></p>
 
 [![GitHub rtseitin](https://img.shields.io/github/followers/rtseitin?label=follow&style=social)](https://github.com/rtseitin)
